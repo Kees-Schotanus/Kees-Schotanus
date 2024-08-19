@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Kees-Schotanus
-- 👀 I’m interested in programming in general
+- 👀 I’m interested in programming in general, but lately I'm really into Dart programming
 - 🌱 I’m currently learning how to write a parser for my own language
 
 <!---
